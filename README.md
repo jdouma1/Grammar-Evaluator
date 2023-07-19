@@ -1,8 +1,8 @@
-# Grammar-Evaluator
+# Regex_Parser
 In collaboration with @:
 - nathanho202
 
-Development of a programming language (using Python) through implementation of 3 steps:
+Development of a regular expression parser/evaluator through implementation of 3 steps:
 - Scanner
 - Parser
 - Evaluator
